@@ -571,6 +571,7 @@
 {"name":"Pulsar","url":"https://raw.githubusercontent.com/WegPast/master/master/Pulsar.tmTheme","light":false},
 {"name":"Pumpkin","url":"https://raw.githubusercontent.com/afonsopacifer/pumpkin/master/Pumpkin.tmTheme","light":false},
 {"name":"Putty","url":"https://raw.githubusercontent.com/filmgirl/TextMate-Themes/master/Putty.tmTheme","light":false},
+{"name":"Python IDLE DARK","url":"https://raw.githubusercontent.com/noob-dude27/IDLE-dark/main/Python%20IDLE%20DARK.tmTheme","dark":true}
 {"name":"Quiet Night","url":"https://raw.githubusercontent.com/watsnow/code-editor-theme/master/textmate/Quiet%20Night.tmTheme","light":false},
 {"name":"Rails Envy","url":"https://raw.githubusercontent.com/filmgirl/TextMate-Themes/master/Rails%20Envy.tmTheme","light":false},
 {"name":"Railsbase16 3024 Dark","url":"https://raw.githubusercontent.com/tompave/rails_base_16/master/RailsBase16-3024.dark.tmTheme","light":false},
